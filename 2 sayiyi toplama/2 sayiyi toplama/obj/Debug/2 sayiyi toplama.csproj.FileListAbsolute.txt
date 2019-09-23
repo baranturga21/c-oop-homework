@@ -1,0 +1,10 @@
+c:\users\hayririza.cimen\source\repos\2 sayiyi toplama\2 sayiyi toplama\bin\Debug\2 sayiyi toplama.exe.config
+c:\users\hayririza.cimen\source\repos\2 sayiyi toplama\2 sayiyi toplama\bin\Debug\2 sayiyi toplama.exe
+c:\users\hayririza.cimen\source\repos\2 sayiyi toplama\2 sayiyi toplama\bin\Debug\2 sayiyi toplama.pdb
+c:\users\hayririza.cimen\source\repos\2 sayiyi toplama\2 sayiyi toplama\obj\Debug\2 sayiyi toplama.csprojResolveAssemblyReference.cache
+c:\users\hayririza.cimen\source\repos\2 sayiyi toplama\2 sayiyi toplama\obj\Debug\_2_sayiyi_toplama.Form1.resources
+c:\users\hayririza.cimen\source\repos\2 sayiyi toplama\2 sayiyi toplama\obj\Debug\_2_sayiyi_toplama.Properties.Resources.resources
+c:\users\hayririza.cimen\source\repos\2 sayiyi toplama\2 sayiyi toplama\obj\Debug\2 sayiyi toplama.csproj.GenerateResource.Cache
+c:\users\hayririza.cimen\source\repos\2 sayiyi toplama\2 sayiyi toplama\obj\Debug\2 sayiyi toplama.csproj.CoreCompileInputs.cache
+c:\users\hayririza.cimen\source\repos\2 sayiyi toplama\2 sayiyi toplama\obj\Debug\2 sayiyi toplama.exe
+c:\users\hayririza.cimen\source\repos\2 sayiyi toplama\2 sayiyi toplama\obj\Debug\2 sayiyi toplama.pdb
